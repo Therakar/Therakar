@@ -1,7 +1,7 @@
 ### 👋🏻 Hello there!  I'm Matteo Pau 
 
 # 💫 About Me:
-<br><br>👨🏻‍💻 I'm a Junior Front-end Developer 👨🏻‍💻<br><br>🌱 I’m currently learning React.js<br>💬 Ask me anything on matteo.pau.dev@gmail.com
+👨🏻‍💻 I'm a Junior Front-end Developer 👨🏻‍💻<br><br>🌱 I’m currently learning React.js<br>💬 Ask me anything on matteo.pau.dev@gmail.com
 
 
 ## 🌐 Socials:
